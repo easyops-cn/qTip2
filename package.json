@@ -1,5 +1,5 @@
 {
-  "name": "qtip2",
+  "name": "@easyops/qtip2",
   "title": "qTip2 - Pretty powerful tooltips",
   "description": "Introducing... qTip2. The second generation of the advanced qTip plugin for the ever popular jQuery framework.",
   "version": "3.0.3",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/qTip2/qTip2.git"
+    "url": "git://github.com/easyops-cn/qTip2.git"
   },
   "keywords": [
     "tooltip",
@@ -37,12 +37,12 @@
     "craga89"
   ],
   "bugs": {
-    "url": "https://github.com/qTip2/qTip2/issues"
+    "url": "https://github.com/easyops-cn/qTip2/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/qTip2/qTip2/blob/master/LICENSE-MIT"
+      "url": "https://github.com/easyops-cn/qTip2/blob/master/LICENSE-MIT"
     }
   ],
   "dependencies": {
