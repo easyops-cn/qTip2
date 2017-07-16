@@ -1,6 +1,5 @@
-[![Build Status](https://travis-ci.org/qTip2/qTip2.svg)](https://travis-ci.org/qTip2/qTip2)
-[![devDependency Status](https://david-dm.org/qTip2/qTip2/dev-status.svg?theme=shields.io)](https://david-dm.org/qTip2/qTip2#info=devDependencies)
-[![Join the chat at https://gitter.im/qTip2/qTip2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/qTip2/qTip2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/easyops-cn/qTip2.svg)](https://travis-ci.org/easyops-cn/qTip2)
+[![devDependency Status](https://david-dm.org/easyops-cn/qTip2/dev-status.svg?theme=shields.io)](https://david-dm.org/easyops-cn/qTip2#info=devDependencies)
 
 [qTip<sup>2</sup>][site] - Pretty powerful tooltips
 ================================
