@@ -13,7 +13,7 @@ TRANSPARENT = 'transparent',
 IMPORTANT = ' !important',
 
 // Check if the browser supports <canvas/> elements
-HASCANVAS = !!document.createElement('canvas').getContext,
+HASCANVAS = !!document.createElement('canvas').getContext && !!document.createElement('canvas').getContext('2d'),
 
 // Invalid colour values used in parseColours()
 INVALID = /rgba?\(0, 0, 0(, 0)?\)|transparent|#123456/i;
